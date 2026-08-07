@@ -29,14 +29,18 @@ The compiled Android APK for the Flutter BLE app is available on the releases pa
 ---
 
 ##  Hardware :
+
+
+| Component | Description | Qty |
+| :--- | :--- | :---: |
 | Microcontroller | ESP32 WROOM-32 (Dev board) | 1 |
 | Temperature Sensor | DHT11 (Digital) | 1 |
 | Air Quality Sensor | MQ135 (Analog - detects NH3, NOx, alcohol, benzene, smoke 3.3v flying fish version) | 1 |
 | Buzzer | 3.3V Active Piezo Buzzer | 1 |
 | LED | 3mm Red LED | 1 |
 | Resistor | 1kΩ (for LED current limiting) | 1 |
-| Power | USB-C cable  | 1 |
-| Connecting Wires | Jumper wires 
+| Power | USB-C cable | 1 |
+| Connecting Wires | Jumper wires | 1 | 
 
 
 ##  software 
